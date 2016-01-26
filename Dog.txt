@@ -17,4 +17,10 @@ public class Dog
   {
    return name;
   }
+
+  //Getter for name variable
+  public String getBreed()
+  {
+   return breed;
+  }
 }
