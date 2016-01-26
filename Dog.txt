@@ -1,0 +1,20 @@
+public class Dog
+{
+  private String name;
+  private String Breed;
+  private String charateristic;
+
+  //Overloaded Constructor
+  public Dog(String nameIn,String breedIn,String chIn)
+  {
+    name = nameIn;
+    breed = breedIn;
+    characteristic = chIn;
+  }
+
+  //Getter for name variable
+  public String getName()
+  {
+   return name;
+  }
+}
