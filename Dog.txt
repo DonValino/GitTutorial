@@ -12,7 +12,7 @@ public class Dog
     characteristic = chIn;
   }
 
-  //Getter for name variable
+  //Get for name variable
   public String getName()
   {
    return name;
